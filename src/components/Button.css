@@ -1,0 +1,110 @@
+.storybook-button {
+    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    border: 0;
+    border-radius: 3em;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1;
+  }
+  .storybook-button--primary {
+    color: white;
+    background-color: #1ea7fd;
+    border-radius: 0%;
+  }
+  .storybook-button--Default {
+    color: white;
+    border-radius: 0%;
+    background-color: #1ea7fd;
+  }
+  .storybook-button--warning {
+    color: white;
+    border-radius: 0%;
+    background-color: #F16A1B;
+  }
+  .storybook-button--info {
+    color: white;
+    border-radius: 0%;
+    background-color: #079AA2;
+  }
+  .storybook-button--dark {
+    color: white;
+    background-color: #212529;
+  }
+  .storybook-button--light {
+    color: white;
+    background-color: #DEE2E6;
+  }
+  .storybook-button--Primary-light {
+    color: #3A57E8;
+    background-color: #DEE2E6;
+    border-radius: 0%;
+    border-width: 2px solid #3A57E8;
+  }
+  .storybook-button--secondary-light {
+    color: #6C757D;
+    background-color: #DEE2E6;
+    border-radius: 0%;
+    border: 2px solid #6C757D;
+  }
+  .storybook-button--success-light {
+    color: #1AA053;
+    background-color: #DEE2E6;
+    border-radius: 0%;
+    border: 2px solid #1AA053;
+  }
+  .storybook-button--danger-light {
+    color: #C03221;
+    background-color: #DEE2E6;
+    border-radius: 0%;
+    border: 2px solid #C03221;
+  }
+  .storybook-button--warning-light {
+    color: #F16A1B;
+    background-color: #DEE2E6;
+    border-radius: 0%;
+    border: 2px  solid #F16A1B;
+  }
+  .storybook-button--info-light {
+    background-color: white;
+    border-radius: 0%;
+    color: #079AA2;
+   
+    border: 2px solid #079AA2;
+  }
+  .storybook-button--dark-light {
+    background-color: #ffffff;
+    border-radius: 0%;
+    color: #212529;
+   
+    border: 2px solid #212529;
+  }
+  .storybook-button--success {
+    color: white;
+    border-radius: 0%;
+    background-color: #1AA053;
+  }
+  .storybook-button--secondary {
+    background-color: #6C757D;
+    border-radius: 0%;
+    color: white;
+  }
+  .storybook-button--danger{
+    background-color: red;
+    border-radius: 0%;
+    color: white;
+  
+  }
+  .storybook-button--small {
+    font-size: 12px;
+    padding: 10px 16px;
+  }
+  .storybook-button--medium {
+    font-size: 14px;
+    padding: 12px 20px;
+  }
+  .storybook-button--large {
+    font-size: 16px;
+    padding: 12px 24px;
+  }
+  

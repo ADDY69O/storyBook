@@ -1,0 +1,71 @@
+#text-xs{
+    font-size: 8px;
+    line-height:  16px;
+}
+
+#text-sm{
+    font-size:  16px;
+    line-height:  20px; 
+}
+
+#text-base{
+    font-size:  24px;
+    line-height: 24px;
+}
+
+#text-lg{
+    font-size:  32px;
+    line-height:  28px;
+}
+
+#text-xl{
+    font-size: 40px;
+    line-height:  28px;
+}
+
+
+/* Diffrent types of badge mode */
+
+.badge-primary{
+    
+    background-color: #3A57E8;
+    color: white;
+}
+
+.badge-secondary{
+    background-color: #6C757D;
+    color: white;
+    
+}
+.badge-success{
+    background-color: #1AA053;
+    color: white;
+}
+
+.badge-danger{
+    color: white;
+    background-color: #C03221;
+}
+
+.badge-warning{
+    color: white;
+    background-color: #F16A1B;
+}
+
+.badge-info{
+    color: white;
+    background-color: #079AA2;
+}
+.badge-light{
+    background-color: #DEE2E6;
+    color: black;
+}
+.badge-dark{
+    color: white;
+    background-color: #212529;
+}
+
+
+
+
+
